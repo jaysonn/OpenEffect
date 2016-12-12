@@ -3,14 +3,14 @@
 
 
 1、[可拖动可缩放大小的自定义View](https://github.com/hpfs0/DragScaleCircleView)
-![image](https://https://github.com/jaysonn/OpenEffect/img/picture1)
+![image](https://github.com/jaysonn/OpenEffect/img/picture1)
 
 
 2、[可以在你的 App 里显示数学公式的库](https://github.com/kexanie/MathView)
-![image](https://https://github.com/jaysonn/OpenEffect/img/picture1)
+![image](https://github.com/jaysonn/OpenEffect/img/picture1)
 
 3、[可以让你给任何 View 添加 Twitter 心型按钮动画效果的库](https://github.com/hanks-zyh/SmallBang)
-![image](https://https://github.com/jaysonn/OpenEffect/img/picture3)![image](https://https://github.com/jaysonn/OpenEffect/img/picture4)
+![image](https://github.com/jaysonn/OpenEffect/img/picture3)![image](https://github.com/jaysonn/OpenEffect/img/picture4)
   
 
 4、[支持手势缩放的自定义 TextView，控件本身和文字都会随着手势同时放大和缩小](https://github.com/nomanr/ZoomTextView)
