@@ -6,17 +6,23 @@
 ![image](https://github.com/jaysonn/OpenEffect/blob/master/img/picture1.png)
 
 
+
 2、[可以在你的 App 里显示数学公式的库](https://github.com/kexanie/MathView)
 ![image](https://github.com/jaysonn/OpenEffect/blob/master/img/picture2.png)
 
+
+
 3、[可以让你给任何 View 添加 Twitter 心型按钮动画效果的库](https://github.com/hanks-zyh/SmallBang)
-![image](https://github.com/jaysonn/OpenEffect/blob/master/img/picture3.png)![image](https://github.com/jaysonn/OpenEffect/blob/master/img/picture4.png)
+![image](https://github.com/jaysonn/OpenEffect/blob/master/img/picture3.png)
+![image](https://github.com/jaysonn/OpenEffect/blob/master/img/picture4.png)
   
+
 
 4、[支持手势缩放的自定义 TextView，控件本身和文字都会随着手势同时放大和缩小](https://github.com/nomanr/ZoomTextView)
 
 
 5、[效果很赞的 TextView 的文本显示动画](https://github.com/hanks-zyh/HTextView)
+
 
 6、[支持在图片上显示一个徽章的ImageView](https://github.com/yesidlazaro/BadgedImageview)
 
