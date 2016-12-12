@@ -13,6 +13,7 @@
 ----------
  
 ## 1、[开源项目收集站，开源项目或控件布局效果](https://github.com/Trinea/android-open-project)
+https://github.com/jaysonn/OpenEffect/blob/master/img2/picture1.jpg
 ## 2、[收集了很多开源的控件或布局的效果](https://github.com/wasabeef/awesome-android-ui)
 ## 3、[国外的免费的库或者工具，也有很多控件或布局的效果](http://android-arsenal.com/free)
 ## 4、[Android动画实例，自定义控件](http://apkdemo.com/)
