@@ -3,7 +3,6 @@
 
 
 ## [第一版](https://github.com/jaysonn/OpenEffect/blob/master/%E7%AC%AC%E4%B8%80%E7%89%88.md)
-----------
 
 ## [第二版](https://github.com/jaysonn/OpenEffect/blob/master/%E7%AC%AC%E4%BA%8C%E7%89%88.md)
 ----------
