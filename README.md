@@ -12,8 +12,7 @@
 
 # 最常用到的效果
 ----------
-  [下拉刷新与加载更多大全](https://github.com/android-cjj/BeautifulRefreshLayout)
-----------
+[下拉刷新与加载更多大全](https://github.com/android-cjj/BeautifulRefreshLayout)
 
 
 
